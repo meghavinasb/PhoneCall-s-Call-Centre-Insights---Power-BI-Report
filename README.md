@@ -1,7 +1,5 @@
 # PhoneCall-s-Call-Centre-Insights---Power-BI-Report
 
-# PhoneCall's Call Centre Insights - Power BI Report
-
 ## Overview
 This Power BI report provides comprehensive insights into the performance and operations of the PhoneCall call centre. The objective is to analyze key metrics such as call volume, customer satisfaction, agent performance, and other KPIs to help drive business decisions and operational improvements.
 
