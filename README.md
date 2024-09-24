@@ -41,9 +41,3 @@ This Power BI report provides comprehensive insights into the performance and op
 - **Power BI Version:** Version [XXX] or higher required to view the report.
 - **Data Refresh Frequency:** Daily/Weekly/Monthly data refreshes, scheduled at [time].
 - **Access Permissions:** The report is accessible by the following teams: [List of teams].
-
-## Contact Information
-For any issues or further information about the report, please contact the BI team at:  
-- **Email:** bi-team@company.com  
-- **Slack Channel:** #bi-support  
-- **Phone:** +123-456-7890
