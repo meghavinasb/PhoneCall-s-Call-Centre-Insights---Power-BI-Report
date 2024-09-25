@@ -36,8 +36,3 @@ This Power BI report provides comprehensive insights into the performance and op
 1. **Navigating Dashboards:** Use the tabs on the left/right to switch between different sections of the report.
 2. **Interacting with Visuals:** Click on a chart or visual to apply filters across the report. For example, clicking on a specific date range will show data only for that period.
 3. **Drill-Down Features:** Right-click on visuals to drill into specific data points (e.g., click on a bar in the “Call Volume” chart to drill into specific agents handling those calls).
-
-## Technical Details
-- **Power BI Version:** Version [XXX] or higher required to view the report.
-- **Data Refresh Frequency:** Daily/Weekly/Monthly data refreshes, scheduled at [time].
-- **Access Permissions:** The report is accessible by the following teams: [List of teams].
